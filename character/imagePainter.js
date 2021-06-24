@@ -1,0 +1,8 @@
+class ImagePainter {
+    constructor() {
+
+    }
+    draw() {
+        
+    }
+}
